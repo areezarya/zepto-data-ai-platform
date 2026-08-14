@@ -1,3 +1,15 @@
+"""
+Task 5 SQL Queries
+
+Covers:
+1. SELECT + WHERE
+2. ORDER BY
+3. LIMIT
+4. DISTINCT
+5. BETWEEN
+6. JOIN
+"""
+
 import sqlite3
 import pandas as pd
 
